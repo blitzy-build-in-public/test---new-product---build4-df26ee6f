@@ -1,2 +1,4 @@
-# test---new-product---build4-df26ee6f
-Created by Blitzy
+# Welcome to Blitzy
+
+Prints "Welcome to Blitzy" to standard output.
+Run it with `node index.js`.
